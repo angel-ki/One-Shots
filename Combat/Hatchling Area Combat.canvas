@@ -1,8 +1,9 @@
 {
 	"nodes":[
-		{"id":"32d4786959ed6b2a","x":100,"y":-300,"width":192,"height":400,"type":"file","file":"Statblocks/Basilisk Hatchling Statblock.png"},
-		{"id":"d904d3f93229ca91","type":"text","text":"**COMBAT**\n- The **stone shaman** stays in half cover among the trees to cast bane on the combatants who engage the rear basilisks. Then, he targets anyone nearby with inflict wounds.\n- The **basilisk hatchlings** are well trained and race to attack the PCs.","x":-560,"y":-240,"width":385,"height":250},
-		{"id":"8a48e0f774b965bc","type":"file","file":"Statblocks/Stone Shaman Statblock.png","x":-160,"y":-299,"width":215,"height":399}
+		{"id":"32d4786959ed6b2a","type":"file","file":"Statblocks/Basilisk Hatchling Statblock.png","x":100,"y":-300,"width":192,"height":400},
+		{"id":"8a48e0f774b965bc","type":"file","file":"Statblocks/Stone Shaman Statblock.png","x":-160,"y":-299,"width":215,"height":399},
+		{"id":"519d342149dd35bf","type":"text","text":"\n| Stone Shaman | Basilisk Hatchling | Harvey | Temperance | Blyasucka |\n| ------------ | ------------------ | ------ | ---------- | --------- |\n|              |                    |        |            |           |\n","x":-760,"y":-99,"width":585,"height":200},
+		{"id":"d904d3f93229ca91","type":"text","text":"**COMBAT**\n- The **stone shaman** stays in half cover among the trees to cast bane on the combatants who engage the rear basilisks. Then, he targets anyone nearby with inflict wounds.\n- The **basilisk hatchlings** are well trained and race to attack the PCs.","x":-760,"y":-308,"width":585,"height":209}
 	],
 	"edges":[]
 }

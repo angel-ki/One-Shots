@@ -1,7 +1,9 @@
 {
 	"nodes":[
-		{"id":"3e17093ad6415e7a","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
-		{"id":"ae35a7f3b213706b","x":-125,"y":-30,"width":250,"height":170,"type":"text","text":"**COMBAT**\n- The **skeletons** attack anyone nearest the sarcophagus."}
+		{"id":"3e17093ad6415e7a","type":"text","text":"","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"aff9101897aa2f96","type":"text","text":"\n| Skeletons | Harvey | Temperance | Blyasucka |\n| --------- | ------ | ---------- | --------- |\n|           |        |            |           |\n","x":-125,"y":80,"width":525,"height":220},
+		{"id":"ae35a7f3b213706b","type":"text","text":"**COMBAT**\n- The **skeletons** attack anyone nearest the sarcophagus.","x":-125,"y":-35,"width":525,"height":115},
+		{"id":"4bd105063c8c9c27","x":420,"y":-120,"width":560,"height":528,"type":"file","file":"Statblocks/Skeleton Statblock.png"}
 	],
 	"edges":[]
 }

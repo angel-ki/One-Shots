@@ -1,8 +1,9 @@
 {
 	"nodes":[
 		{"id":"36595954fd1cb5a6","type":"text","text":"**COMBAT**\n- The **stone warriors** fight to the death. They throw spears from behind the statues at “enemy shamans” and then engage in melee.\n- The statues provide **half cover**.\n","x":-602,"y":-380,"width":485,"height":180},
-		{"id":"e150a4fc09bc88ab","x":-100,"y":-380,"width":400,"height":338,"type":"file","file":"Statblocks/Stone Warrior Statblock 1.png"},
-		{"id":"2c1fcd299ebb8d1c","x":-100,"y":-42,"width":400,"height":292,"type":"file","file":"Statblocks/Stone Warrior Statblock 2.png"}
+		{"id":"e150a4fc09bc88ab","type":"file","file":"Statblocks/Stone Warrior Statblock 1.png","x":-100,"y":-380,"width":400,"height":338},
+		{"id":"2c1fcd299ebb8d1c","type":"file","file":"Statblocks/Stone Warrior Statblock 2.png","x":-100,"y":-42,"width":400,"height":292},
+		{"id":"9c2e2079ceabbab0","type":"text","text":"\n| Harvey | Temperance | Blyasucka | Stone Warriors |\n| ------ | ---------- | --------- | -------------- |\n|        |            |           | 3              |\n","x":-602,"y":-200,"width":485,"height":180}
 	],
 	"edges":[]
 }

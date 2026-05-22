@@ -1,6 +1,8 @@
 {
 	"nodes":[
-		{"id":"cc7434f9c9e8f83a","x":-320,"y":-140,"width":445,"height":170,"type":"text","text":"**COMBAT**\n- The **gelatinous cube** remains stationary until anyone enters its space. It uses its engulf action on the offending characters.\n- Once disturbed, it pursues the characters and attacks until destroyed or avoided."}
+		{"id":"cc7434f9c9e8f83a","type":"text","text":"**COMBAT**\n- The **gelatinous cube** remains stationary until anyone enters its space. It uses its engulf action on the offending characters.\n- Once disturbed, it pursues the characters and attacks until destroyed or avoided.","x":-320,"y":-140,"width":445,"height":200},
+		{"id":"49ab5f652e401519","type":"text","text":"\n| Harvey | Temperance | Blyasucka | Gelatinous Cube |\n| ------ | ---------- | --------- | --------------- |\n|        |            |           | 1               |\n","x":-320,"y":60,"width":445,"height":160},
+		{"id":"e7c997d5211f067f","x":140,"y":-300,"width":402,"height":680,"type":"file","file":"Statblocks/Gelatinous Cube Statblock.png"}
 	],
 	"edges":[]
 }

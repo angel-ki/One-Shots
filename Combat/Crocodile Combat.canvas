@@ -1,6 +1,8 @@
 {
 	"nodes":[
-		{"id":"d6670e3ca7a06271","x":-520,"y":-320,"width":385,"height":260,"type":"text","text":"**COMBAT**\n- The crocodiles **leap** from the water and make a bite attack at characters who hang from the bridge.\n- The crocodiles attack any characters who enter the water, but they won’t exit the river.\n- The crocodiles **flee** if reduced to half their hit points or below."}
+		{"id":"ab2d2aef240796de","type":"text","text":"\n| Harvey | Temperance | Blyasucka | Crocodiles |\n| ------ | ---------- | --------- | ---------- |\n|        |            |           | 4          |\n","x":-520,"y":-110,"width":540,"height":210},
+		{"id":"af6505e99114f9c7","type":"file","file":"Statblocks/Crocodile Statblock.png","x":20,"y":-320,"width":512,"height":420},
+		{"id":"d6670e3ca7a06271","type":"text","text":"**COMBAT**\n- The crocodiles **leap** from the water and make a bite attack at characters who hang from the bridge.\n- The crocodiles attack any characters who enter the water, but they won’t exit the river.\n- The crocodiles **flee** if reduced to half their hit points or below.","x":-520,"y":-310,"width":540,"height":200}
 	],
 	"edges":[]
 }

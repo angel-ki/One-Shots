@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"9433fbfba793a30a","x":-340,"y":-120,"width":465,"height":150,"type":"text","text":"**COMBAT**\n- The NPC attacks the character who appears to have the most treasure, tries to steal it, and flees if they are able to grab any loot."}
+		{"id":"9433fbfba793a30a","type":"text","text":"**COMBAT**\n- The NPC attacks the character who appears to have the most treasure, tries to steal it, and flees if they are able to grab any loot.","x":-420,"y":-220,"width":465,"height":150},
+		{"id":"5abb75e49d4d30ae","x":-420,"y":-70,"width":465,"height":110,"type":"text","text":"| Ixaendra | Harvey | Temperance | Blyasucka |\n| -------- | ------ | ---------- | --------- |\n|          |        |            |           |\n"}
 	],
 	"edges":[]
 }

@@ -1,8 +1,11 @@
 {
 	"nodes":[
-		{"id":"0c6532b46ea54a33","type":"text","text":"**COMBAT**\n- Four **stone warriors** (marked S on the map) erupt from the forest at **Area 1**. One has a large **basket** strapped on his back. Each holds an unlit torch and spends the first round lighting it in the **campfire** and throwing it into a tent.\n- At the same time, two stone warriors jump out of the forest at **Area 5.** They attempt to kill the scholars and flee with the **stone egg**.\n- On the **second round** of combat, the stone warrior in Area 1 with the basket opens it and unleashes his **basilisk hatchling** ally.\n- Tents hit by **burning torches** are consumed in 1d4 rounds. Anyone in the flames takes 1d6 fire damage per round.\n- Two camp **guards** arrive at Area 1 and one arrives at Area 5 on the third round.","x":-820,"y":-520,"width":600,"height":340},
-		{"id":"1f6e6888fad7cf36","x":-120,"y":-600,"width":400,"height":338,"type":"file","file":"Statblocks/Stone Warrior Statblock 1.png"},
-		{"id":"7b7ae01dcb4c1c84","x":-120,"y":-262,"width":400,"height":292,"type":"file","file":"Statblocks/Stone Warrior Statblock 2.png"}
+		{"id":"1f6e6888fad7cf36","type":"file","file":"Statblocks/Stone Warrior Statblock 1.png","x":-120,"y":-600,"width":400,"height":338},
+		{"id":"7b7ae01dcb4c1c84","type":"file","file":"Statblocks/Stone Warrior Statblock 2.png","x":-120,"y":-262,"width":400,"height":292},
+		{"id":"f2fe384d35108792","type":"text","text":"| Stone Warriors (x2) | Basilisk Hatchling | Stone Warriors (x4) | Guards (x2) | Harvey | Temperance | Blyasucka |\n| ------------------- | ------------------ | ------------------- | ----------- | ------ | ---------- | --------- |\n| 21                  | 19                 | 17                  | 12          |        |            |           |\n","x":-1140,"y":-180,"width":920,"height":275},
+		{"id":"0c6532b46ea54a33","type":"text","text":"**COMBAT**\n- Four **stone warriors** (marked S on the map) erupt from the forest at **Area 1**. One has a large **basket** strapped on his back. Each holds an unlit torch and spends the first round lighting it in the **campfire** and throwing it into a tent.\n- At the same time, two stone warriors jump out of the forest at **Area 5.** They attempt to kill the scholars and flee with the **stone egg**.\n- On the **second round** of combat, the stone warrior in Area 1 with the basket opens it and unleashes his **basilisk hatchling** ally.\n- Tents hit by **burning torches** are consumed in 1d4 rounds. Anyone in the flames takes 1d6 fire damage per round.\n- Two camp **guards** arrive at Area 1 and one arrives at Area 5 on the third round.","x":-1140,"y":-520,"width":600,"height":340},
+		{"id":"192e8477602a0380","type":"file","file":"Statblocks/Basilisk Hatchling Statblock.png","x":280,"y":-600,"width":302,"height":630},
+		{"id":"78b9ac2b06853e2a","type":"file","file":"Statblocks/Guard.png","x":-1140,"y":120,"width":600,"height":478}
 	],
 	"edges":[]
 }
