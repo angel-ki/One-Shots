@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"9433fbfba793a30a","x":-340,"y":-120,"width":465,"height":150,"type":"text","text":"**COMBAT**\n- The NPC attacks the character who appears to have the most treasure, tries to steal it, and flees if they are able to grab any loot."}
+	],
+	"edges":[]
+}

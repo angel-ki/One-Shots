@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"d6670e3ca7a06271","x":-520,"y":-320,"width":385,"height":260,"type":"text","text":"**COMBAT**\n- The crocodiles **leap** from the water and make a bite attack at characters who hang from the bridge.\n- The crocodiles attack any characters who enter the water, but they won’t exit the river.\n- The crocodiles **flee** if reduced to half their hit points or below."}
+	],
+	"edges":[]
+}

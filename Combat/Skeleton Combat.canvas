@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"3e17093ad6415e7a","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
+		{"id":"ae35a7f3b213706b","x":-125,"y":-30,"width":250,"height":170,"type":"text","text":"**COMBAT**\n- The **skeletons** attack anyone nearest the sarcophagus."}
+	],
+	"edges":[]
+}

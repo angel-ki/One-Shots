@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"0c6532b46ea54a33","type":"text","text":"**COMBAT**\n- Four **stone warriors** (marked S on the map) erupt from the forest at **Area 1**. One has a large **basket** strapped on his back. Each holds an unlit torch and spends the first round lighting it in the **campfire** and throwing it into a tent.\n- At the same time, two stone warriors jump out of the forest at **Area 5.** They attempt to kill the scholars and flee with the **stone egg**.\n- On the **second round** of combat, the stone warrior in Area 1 with the basket opens it and unleashes his **basilisk hatchling** ally.\n- Tents hit by **burning torches** are consumed in 1d4 rounds. Anyone in the flames takes 1d6 fire damage per round.\n- Two camp **guards** arrive at Area 1 and one arrives at Area 5 on the third round.","x":-820,"y":-520,"width":600,"height":340},
+		{"id":"1f6e6888fad7cf36","x":-120,"y":-600,"width":400,"height":338,"type":"file","file":"Statblocks/Stone Warrior Statblock 1.png"},
+		{"id":"7b7ae01dcb4c1c84","x":-120,"y":-262,"width":400,"height":292,"type":"file","file":"Statblocks/Stone Warrior Statblock 2.png"}
+	],
+	"edges":[]
+}

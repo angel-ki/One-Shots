@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"cc7434f9c9e8f83a","x":-320,"y":-140,"width":445,"height":170,"type":"text","text":"**COMBAT**\n- The **gelatinous cube** remains stationary until anyone enters its space. It uses its engulf action on the offending characters.\n- Once disturbed, it pursues the characters and attacks until destroyed or avoided."}
+	],
+	"edges":[]
+}
